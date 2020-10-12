@@ -1,0 +1,7 @@
+code: seed-page-models
+description: A set of page templates from the seed bank demo
+components:
+  pageModels:
+    - pageModels/dashboard-descriptor.yaml
+    - pageModels/insurance_home-descriptor.yaml
+    - pageModels/seed_home-descriptor.yaml
