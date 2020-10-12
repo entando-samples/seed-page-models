@@ -5,9 +5,6 @@ configuration:
     - pos: 0
       description: go Seed Home
       mainFrame: false
-      defaultWidget:
-        code: back_to_seed
-        properties: null
       sketch:
         x1: 0
         y1: 0
@@ -16,9 +13,6 @@ configuration:
     - pos: 1
       description: search bar
       mainFrame: false
-      defaultWidget:
-        code: search_form
-        properties: null
       sketch:
         x1: 8
         y1: 0
@@ -27,9 +21,6 @@ configuration:
     - pos: 2
       description: choose language
       mainFrame: false
-      defaultWidget:
-        code: language_choose
-        properties: null
       sketch:
         x1: 10
         y1: 0
@@ -38,9 +29,6 @@ configuration:
     - pos: 3
       description: brand logo
       mainFrame: false
-      defaultWidget:
-        code: brand_insurance
-        properties: null
       sketch:
         x1: 0
         y1: 1
@@ -57,9 +45,6 @@ configuration:
     - pos: 5
       description: Insurance login
       mainFrame: false
-      defaultWidget:
-        code: insurance_login
-        properties: null
       sketch:
         x1: 9
         y1: 1
@@ -68,9 +53,6 @@ configuration:
     - pos: 6
       description: breadcrumb
       mainFrame: false
-      defaultWidget:
-        code: Breadcrumb
-        properties: null
       sketch:
         x1: 0
         y1: 2
