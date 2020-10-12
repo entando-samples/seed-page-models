@@ -117,9 +117,6 @@ configuration:
     - pos: 14
       description: Footer
       mainFrame: false
-      defaultWidget:
-        code: footer-insurance
-        properties: null
       sketch:
         x1: 0
         y1: 16
