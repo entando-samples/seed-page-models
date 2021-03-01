@@ -1,4 +1,4 @@
-code: seed_home
+code: standalone_seed_home
 description: Seed homepage
 configuration:
   frames:

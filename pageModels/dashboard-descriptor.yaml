@@ -1,4 +1,4 @@
-code: dashboard
+code: standalone_dashboard
 description: Seed Dashboard
 configuration:
   frames:

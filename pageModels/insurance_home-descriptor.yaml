@@ -1,4 +1,4 @@
-code: insurance_home
+code: standalone_insurance_home
 description: Insurance pages
 configuration:
   frames:
